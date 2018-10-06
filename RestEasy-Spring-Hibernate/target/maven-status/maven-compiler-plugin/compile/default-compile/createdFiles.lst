@@ -1,0 +1,9 @@
+com\resteasy\series\spring\hibernate\dao\CustomerDAO.class
+in\benchresources\cdm\customer\ObjectFactory.class
+com\resteasy\series\spring\hibernate\dao\CustomerDAOImpl.class
+com\resteasy\series\spring\hibernate\model\Customer.class
+in\benchresources\cdm\customer\package-info.class
+com\resteasy\series\spring\hibernate\service\ICustomerService.class
+com\resteasy\series\spring\hibernate\service\CustomerServiceImpl.class
+in\benchresources\cdm\customer\CustomerType.class
+in\benchresources\cdm\customer\CustomerListType.class
